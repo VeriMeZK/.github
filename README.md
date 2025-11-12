@@ -1,0 +1,1 @@
+**VeriMe ZK** is a client-side JavaScript library that enables zero-knowledge identity verification directly in the browser. Users can prove identity attributes (age, nationality, document validity) without revealing sensitive personal information. All processing happens locally—no data leaves the user's device.
